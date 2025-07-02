@@ -70,6 +70,9 @@
 
 
 <!--
+아이콘 사이트: https://simpleicons.org/?q=pytorch
+배지 사이트: https://shields.io/badges
+
 **kimdyun22/kimdyun22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
