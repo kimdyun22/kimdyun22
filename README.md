@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/keras-D00000.svg?style=for-the-badge&logo=keras&logoColor=ffd35b" />&nbsp
   <img src="https://img.shields.io/badge/cuda-76B900.svg?style=for-the-badge&logo=nvidia&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/c++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/yolo-111F68.svg?style=for-the-badge&logo=yolo&logoColor=white" />&nbsp
 </div>
 
 <br>
